@@ -9,7 +9,7 @@
 ##### The most crucial problem I faced during the developement was that the ball was not correctly reflecting off the edges of the board. I overcame this by using a more definitive control flow in the program.
 
 ## To Play
-#### To play the game: go on to this [link](http://py3.codeskulptor.org/#user301_MdYTXcPoFA_0.py) and press the **Run** button.
+#### To play the game: go on to this [link](http://py3.codeskulptor.org/#user301_MdYTXcPoFA_0.py) and press the [**Run**] button.
 
 ## Comments appreciated
 ##### If you find a problem in the game, need help accessing it, or have a simple suggestion, please send me an email. Thank you.
