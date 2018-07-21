@@ -9,7 +9,7 @@
 #### The most crucial problem I faced during the developement was that the ball did not correctly reflect off of the edges of the board. I overcame this by using a more definitive control flow in the program.
 
 ## To Play
-#### To play the game: go on to this [link](http://py3.codeskulptor.org/#user301_LovEWyLm9kx9D5C.py) and press the **Run** button.
+#### To play the game: go on to this [link](http://py3.codeskulptor.org/#user301_KW4FrF5EcTAlgRQ.py) and press the **Run** button.
 ###### Note: You might have to click on the canvas(the black game background) in order to bring the game screen into focus so that the key controls would work.
 
 ## Comments appreciated
