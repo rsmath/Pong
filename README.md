@@ -1,4 +1,4 @@
-# Pong Game
+# Pong Game [![HitCount](http://hits.dwyl.io/ramanshsharma2806/Pong.svg)](http://hits.dwyl.io/ramanshsharma2806/Pong)
 #### I made this game as the final project at the Summer Programming course at my school. It was made in the online Python IDE, [CodeSkulptor](http://py3.codeskulptor.org/about.html), that has the [simplegui](http://www.codeskulptor.org/) library conveniently installed.
 
 
